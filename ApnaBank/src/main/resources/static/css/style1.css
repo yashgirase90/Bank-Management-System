@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{
+	background-color:cyan;
+	background-image: url("contactImg.jpg");
+	
+}
+.bg-prime{
+	background:silver;
+	font-family: cursive;
+	}
+.banner{
+	width:100%;
+	height:1200ex;
+	background:url(../img/hero_2.jpg);
+	color: black; 
+	 	
+}	
